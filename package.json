@@ -1,0 +1,23 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "Angular Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skgprogrammer/MEAN-STACK.git"
+  },
+  "keywords": [
+    "Angular",
+    "Blog"
+  ],
+  "author": "Sandeep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skgprogrammer/MEAN-STACK/issues"
+  },
+  "homepage": "https://github.com/skgprogrammer/MEAN-STACK#readme"
+}
